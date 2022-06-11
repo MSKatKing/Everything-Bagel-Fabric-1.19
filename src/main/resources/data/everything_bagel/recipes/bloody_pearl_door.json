@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_door",
+  "pattern": [
+    "##",
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "everything_bagel:bloody_pearl_planks"
+    }
+  },
+  "result": {
+    "item": "everything_bagel:bloody_pearl_door",
+    "count": 3
+  }
+}

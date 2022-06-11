@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "everything_bagel:block/overgrown_slab"
+    },
+    "type=double": {
+      "model": "everything_bagel:block/overgrown_planks"
+    },
+    "type=top": {
+      "model": "everything_bagel:block/overgrown_slab_top"
+    }
+  }
+}

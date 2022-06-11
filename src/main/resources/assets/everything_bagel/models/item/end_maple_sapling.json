@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "everything_bagel:item/end_maple_sapling"
+  }
+}

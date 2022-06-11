@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom_rh",
+  "textures": {
+    "bottom": "everything_bagel:block/bloody_pearl_door_bottom",
+    "top": "everything_bagel:block/bloody_pearl_door_top"
+  }
+}

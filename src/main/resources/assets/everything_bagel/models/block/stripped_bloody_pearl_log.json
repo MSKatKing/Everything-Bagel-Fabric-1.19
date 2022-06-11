@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "everything_bagel:block/stripped_bloody_pearl_log_top",
+    "side": "everything_bagel:block/stripped_bloody_pearl_log"
+  }
+}

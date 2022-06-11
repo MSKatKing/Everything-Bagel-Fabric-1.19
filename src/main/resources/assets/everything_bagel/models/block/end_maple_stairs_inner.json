@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "everything_bagel:block/end_maple_planks",
+    "top": "everything_bagel:block/end_maple_planks",
+    "side": "everything_bagel:block/end_maple_planks"
+  }
+}

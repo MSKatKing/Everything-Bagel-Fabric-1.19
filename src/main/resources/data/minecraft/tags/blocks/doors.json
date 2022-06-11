@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:wooden_doors",
+    "#everything_bagel:end_doors",
+    "minecraft:iron_door"
+  ]
+}

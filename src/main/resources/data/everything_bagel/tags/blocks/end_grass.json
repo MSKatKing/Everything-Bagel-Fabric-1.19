@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "everything_bagel:end_wastes_grass_block",
+    "everything_bagel:end_garden_grass_block",
+    "everything_bagel:bloody_end_grass_block",
+    "everything_bagel:end_overgrowth_grass_block"
+  ]
+}

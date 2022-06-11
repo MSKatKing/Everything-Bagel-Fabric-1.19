@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "everything_bagel:block/end_maple_slab"
+    },
+    "type=double": {
+      "model": "everything_bagel:block/end_maple_planks"
+    },
+    "type=top": {
+      "model": "everything_bagel:block/end_maple_slab_top"
+    }
+  }
+}

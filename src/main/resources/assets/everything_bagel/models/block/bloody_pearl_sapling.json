@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "everything_bagel:item/bloody_pearl_sapling"
+  }
+}

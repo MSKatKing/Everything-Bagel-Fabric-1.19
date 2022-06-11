@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "everything_bagel:block/_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "everything_bagel:block/"
+    },
+    "axis=z": {
+      "model": "everything_bagel:block/_horizontal",
+      "x": 90
+    }
+  }
+}

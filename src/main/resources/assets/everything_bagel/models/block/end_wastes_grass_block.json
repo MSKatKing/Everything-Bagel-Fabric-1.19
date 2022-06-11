@@ -1,0 +1,8 @@
+{
+  "parent": "everything_bagel:block/templates/template_grass_block",
+  "textures": {
+    "side": "everything_bagel:block/black_end_grass_side",
+    "top": "everything_bagel:block/black_end_grass_top",
+    "bottom": "minecraft:block/end_stone"
+  }
+}

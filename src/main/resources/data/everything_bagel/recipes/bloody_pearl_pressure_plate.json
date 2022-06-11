@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_pressure_plate",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "everything_bagel:bloody_pearl_planks"
+    }
+  },
+  "result": {
+    "item": "everything_bagel:bloody_pearl_pressure_plate"
+  }
+}

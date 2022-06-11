@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "everything_bagel:raw_enderium_ingot"
+  },
+  "result": "everything_bagel:enderium_ingot",
+  "experience": 2.0,
+  "cookingtime": 200
+}

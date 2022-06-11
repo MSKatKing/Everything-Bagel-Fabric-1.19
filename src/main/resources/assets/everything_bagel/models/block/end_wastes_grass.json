@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/tinted_cross",
+  "textures": {
+    "cross": "everything_bagel:block/end_wastes_grass"
+  }
+}

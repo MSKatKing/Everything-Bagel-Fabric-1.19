@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredients": [{
+    "item": "everything_bagel:end_maple_wood"
+  }],
+  "result": {
+    "item": "everything_bagel:end_maple_planks",
+    "count": 4
+  }
+}

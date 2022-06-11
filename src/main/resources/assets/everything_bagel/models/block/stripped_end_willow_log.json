@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "everything_bagel:block/stripped_end_willow_log_top",
+    "side": "everything_bagel:block/stripped_end_willow_log"
+  }
+}

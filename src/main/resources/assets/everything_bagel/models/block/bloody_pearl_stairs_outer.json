@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "everything_bagel:block/bloody_pearl_planks",
+    "top": "everything_bagel:block/bloody_pearl_planks",
+    "side": "everything_bagel:block/bloody_pearl_planks"
+  }
+}

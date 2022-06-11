@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "everything_bagel:block/bloody_pearl_slab"
+    },
+    "type=double": {
+      "model": "everything_bagel:block/bloody_pearl_planks"
+    },
+    "type=top": {
+      "model": "everything_bagel:block/bloody_pearl_slab_top"
+    }
+  }
+}

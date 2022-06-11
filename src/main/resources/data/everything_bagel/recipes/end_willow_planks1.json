@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredients": [{
+      "item": "everything_bagel:end_willow_log"
+  }],
+  "result": {
+    "item": "everything_bagel:end_willow_planks",
+    "count": 4
+  }
+}

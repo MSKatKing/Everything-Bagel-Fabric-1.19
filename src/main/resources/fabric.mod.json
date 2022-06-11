@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "everything_bagel",
+  "version": "${version}",
+
+  "name": "Everything Bagel (1.19)",
+  "description": "",
+  "authors": [
+    "MSKatKing"
+  ],
+  "contact": {},
+
+  "license": "MIT",
+  "icon": "assets/everything_bagel/icon.png",
+
+  "environment": "*",
+  "accessWidener" : "everything_bagel.accesswidener",
+  "entrypoints": {
+    "client": [
+      "com.mskatking_studios.everything_bagel.client.EverythingBagelClient"
+    ],
+    "main": [
+      "com.mskatking_studios.everything_bagel.EverythingBagel"
+    ]
+  },
+
+          "mixins": [
+        "everything_bagel.mixins.json"
+      ],
+
+  "depends": {
+    "fabricloader": ">=0.12.0",
+              "fabric": "*",
+          "minecraft": "1.19"
+  }
+}

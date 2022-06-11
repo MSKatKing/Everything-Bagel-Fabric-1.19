@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bark",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "everything_bagel:overgrown_log"
+    }
+  },
+  "result": {
+    "item": "everything_bagel:overgrown_wood",
+    "count": 4
+  }
+}

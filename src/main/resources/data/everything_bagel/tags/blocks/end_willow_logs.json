@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "everything_bagel:end_willow_log",
+    "everything_bagel:end_willow_wood",
+    "everything_bagel:stripped_end_willow_log",
+    "everything_bagel:stripped_end_willow_wood"
+  ]
+}

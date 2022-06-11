@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "everything_bagel:block/stripped_bloody_pearl_log"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredients": [{
+    "item": "everything_bagel:bloody_pearl_wood"
+  }],
+  "result": {
+    "item": "everything_bagel:bloody_pearl_planks",
+    "count": 4
+  }
+}

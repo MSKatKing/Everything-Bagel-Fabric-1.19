@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "#everything_bagel:end_doors",
+    "#everything_bagel:end_buttons",
+    "#everything_bagel:end_logs",
+    "#everything_bagel:end_fence_gates",
+    "#everything_bagel:end_fences",
+    "#everything_bagel:end_planks",
+    "#everything_bagel:end_pressure_plates",
+    "#everything_bagel:end_slabs",
+    "#everything_bagel:end_stairs",
+    "#everything_bagel:end_trapdoors"
+  ]
+}

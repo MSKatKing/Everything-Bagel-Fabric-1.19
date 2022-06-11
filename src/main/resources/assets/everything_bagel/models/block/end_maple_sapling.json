@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "everything_bagel:item/end_maple_sapling"
+  }
+}

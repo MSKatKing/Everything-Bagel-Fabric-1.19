@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "everything_bagel:block/_pressure_plate"
+    },
+    "powered=true": {
+      "model": "everything_bagel:block/_pressure_plate_down"
+    }
+  }
+}

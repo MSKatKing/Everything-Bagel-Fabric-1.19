@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_side",
+  "textures": {
+    "texture": "everything_bagel:block/end_willow_planks"
+  }
+}

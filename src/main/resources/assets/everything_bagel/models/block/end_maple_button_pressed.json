@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_pressed",
+  "textures": {
+    "texture": "everything_bagel:block/end_maple_planks"
+  }
+}
