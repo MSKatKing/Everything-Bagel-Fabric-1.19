@@ -17,10 +17,12 @@
   "accessWidener" : "everything_bagel.accesswidener",
   "entrypoints": {
     "client": [
-      "com.mskatking_studios.everything_bagel.client.EverythingBagelClient"
+      "com.mskatking_studios.everything_bagel.client.EverythingBagelClient",
+      "com.mskatking_studios.bagellib.BagelLibClient"
     ],
     "main": [
-      "com.mskatking_studios.everything_bagel.EverythingBagel"
+      "com.mskatking_studios.everything_bagel.EverythingBagel",
+      "com.mskatking_studios.bagellib.BagelLib"
     ]
   },
 
