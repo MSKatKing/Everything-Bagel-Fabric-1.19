@@ -3,15 +3,22 @@ package com.mskatking_studios.everything_bagel.end_update_v1_0.registry;
 import com.mskatking_studios.bagellib.api.helpers.items.ItemHelper;
 import com.mskatking_studios.everything_bagel.CreativeTabs;
 import com.mskatking_studios.everything_bagel.EverythingBagel;
-import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
-import net.minecraft.core.Registry;
-import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
-import net.minecraft.world.level.block.Block;
 
 public class EndItems {
 
-    public static final Item TEST_BLOCK = ItemHelper.createBlockItem(EverythingBagel.MODID, "test_block", EndBlocks.TEST_BLOCK, new Item.Properties().tab(CreativeTabs.TAB_END_UPDATE));
+    public static final Item END_GARDEN_GRASS_BLOCK = ItemHelper.createBlockItem(EverythingBagel.MODID, "end_garden_grass_block", EndBlocks.END_GARDEN_GRASS_BLOCK, new Item.Properties().tab(CreativeTabs.TAB_END_UPDATE));
+    public static final Item END_WASTES_GRASS_BLOCK = ItemHelper.createBlockItem(EverythingBagel.MODID, "end_wastes_grass_block", EndBlocks.END_WASTES_GRASS_BLOCK, new Item.Properties().tab(CreativeTabs.TAB_END_UPDATE));
+    public static final Item BLOODY_END_GRASS_BLOCK = ItemHelper.createBlockItem(EverythingBagel.MODID, "bloody_end_grass_block", EndBlocks.BLOODY_END_GRASS_BLOCK, new Item.Properties().tab(CreativeTabs.TAB_END_UPDATE));
+    public static final Item END_OVERGROWTH_GRASS_BLOCK = ItemHelper.createBlockItem(EverythingBagel.MODID, "end_overgrowth_grass_block", EndBlocks.END_OVERGROWTH_GRASS_BLOCK, new Item.Properties().tab(CreativeTabs.TAB_END_UPDATE));
+    public static final Item END_GARDEN_GRASS = ItemHelper.createBlockItem(EverythingBagel.MODID, "end_garden_grass", EndBlocks.END_GARDEN_GRASS, new Item.Properties().tab(CreativeTabs.TAB_END_UPDATE));
+    public static final Item END_WASTES_GRASS = ItemHelper.createBlockItem(EverythingBagel.MODID, "end_wastes_grass", EndBlocks.END_WASTES_GRASS, new Item.Properties().tab(CreativeTabs.TAB_END_UPDATE));
+    public static final Item BLOODY_END_GRASS = ItemHelper.createBlockItem(EverythingBagel.MODID, "bloody_end_grass", EndBlocks.BLOODY_END_GRASS, new Item.Properties().tab(CreativeTabs.TAB_END_UPDATE));
+    public static final Item END_OVERGROWTH_GRASS = ItemHelper.createBlockItem(EverythingBagel.MODID, "end_overgrowth_grass", EndBlocks.END_OVERGROWTH_GRASS, new Item.Properties().tab(CreativeTabs.TAB_END_UPDATE));
+    public static final Item ENDERIUM_ORE = ItemHelper.createBlockItem(EverythingBagel.MODID, "enderium_ore", EndBlocks.ENDERIUM_ORE, new Item.Properties().tab(CreativeTabs.TAB_END_UPDATE));
+    public static final Item ENDERIUM_BLOCK = ItemHelper.createBlockItem(EverythingBagel.MODID, "enderium_block", EndBlocks.ENDERIUM_BLOCK, new Item.Properties().tab(CreativeTabs.TAB_END_UPDATE));
+    public static final Item ENDERIUM_INGOT = ItemHelper.createDefaultItem(EverythingBagel.MODID, "enderium_ingot", new Item.Properties().tab(CreativeTabs.TAB_END_UPDATE));
+    public static final Item RAW_ENDERIUM_INGOT = ItemHelper.createDefaultItem(EverythingBagel.MODID, "raw_enderium_ingot", new Item.Properties().tab(CreativeTabs.TAB_END_UPDATE));
 
     public static final Item END_WILLOW_BUTTON = ItemHelper.createBlockItem(EverythingBagel.MODID, "end_willow_button", EndBlocks.END_WILLOW_BUTTON, new Item.Properties().tab(CreativeTabs.TAB_END_UPDATE));
     public static final Item END_WILLOW_DOOR = ItemHelper.createBlockItem(EverythingBagel.MODID, "end_willow_door", EndBlocks.END_WILLOW_DOOR, new Item.Properties().tab(CreativeTabs.TAB_END_UPDATE));

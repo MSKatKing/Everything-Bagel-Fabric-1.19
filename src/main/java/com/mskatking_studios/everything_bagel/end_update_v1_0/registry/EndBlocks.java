@@ -16,7 +16,16 @@ import net.minecraft.world.level.material.Material;
 public class EndBlocks {
 
     //MISC
-    public static final Block TEST_BLOCK = BlockHelper.createDefaultBlock(Material.DIRT, SoundType.AMETHYST, EverythingBagel.MODID, "test_block");
+    public static final Block END_GARDEN_GRASS_BLOCK = BlockHelper.createDefaultBlock(Material.GRASS, SoundType.GRASS, EverythingBagel.MODID, "end_garden_grass_block");
+    public static final Block END_WASTES_GRASS_BLOCK = BlockHelper.createDefaultBlock(Material.GRASS, SoundType.GRASS, EverythingBagel.MODID, "end_wastes_grass_block");
+    public static final Block BLOODY_END_GRASS_BLOCK = BlockHelper.createDefaultBlock(Material.GRASS, SoundType.GRASS, EverythingBagel.MODID, "bloody_end_grass_block");
+    public static final Block END_OVERGROWTH_GRASS_BLOCK = BlockHelper.createDefaultBlock(Material.GRASS, SoundType.GRASS, EverythingBagel.MODID, "end_overgrowth_grass_block");
+    public static final Block END_GARDEN_GRASS = BlockHelper.createDefaultBlock(Material.GRASS, SoundType.GRASS, EverythingBagel.MODID, "end_garden_grass");
+    public static final Block END_WASTES_GRASS = BlockHelper.createDefaultBlock(Material.GRASS, SoundType.GRASS, EverythingBagel.MODID, "end_wastes_grass");
+    public static final Block BLOODY_END_GRASS = BlockHelper.createDefaultBlock(Material.GRASS, SoundType.GRASS, EverythingBagel.MODID, "bloody_end_grass");
+    public static final Block END_OVERGROWTH_GRASS = BlockHelper.createDefaultBlock(Material.GRASS, SoundType.GRASS, EverythingBagel.MODID, "end_overgrowth_grass");
+    public static final Block ENDERIUM_ORE = BlockHelper.createDefaultBlock(Material.STONE, SoundType.STONE, EverythingBagel.MODID, "enderium_ore");
+    public static final Block ENDERIUM_BLOCK = BlockHelper.createDefaultBlock(Material.STONE, SoundType.STONE, EverythingBagel.MODID, "enderium_block");
 
     //End Gardens
     public static final Block END_WILLOW_BUTTON = BlockHelper.createWoodenButtonBlock(EverythingBagel.MODID, "end_willow_button", EndMaterials.END_WILLOW, SoundType.WOOD);

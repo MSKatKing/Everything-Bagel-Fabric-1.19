@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "com.mskatking_studios.everything_bagel.mixin",
+  "package": "com.mskatking_studios.mixins",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
   ],

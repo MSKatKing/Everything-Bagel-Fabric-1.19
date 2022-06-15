@@ -10,6 +10,6 @@ public class CreativeTabs {
 
     public static final CreativeModeTab TAB_END_UPDATE = FabricItemGroupBuilder.create(
             new ResourceLocation(EverythingBagel.MODID, "end_update"))
-            .icon(() -> new ItemStack(EndBlocks.TEST_BLOCK))
+            .icon(() -> new ItemStack(EndBlocks.END_GARDEN_GRASS_BLOCK))
             .build();
 }
